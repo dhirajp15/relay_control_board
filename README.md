@@ -3,14 +3,8 @@
 ## The project houses python script to control relay timings according to the song
 
 ---
-
-### This is using rasberry pi zero
-
----
-Pi is used for toggling the states of relays an playing music
-the hardware used is :
-
----
+<br/>
+Rasberry Pi Zero is used for toggling the states of relays and playing music <br/>the hardware used is :<br/>
 
 * Raspbery Pi Zero
 * Bluetooth speaker

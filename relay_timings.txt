@@ -1,0 +1,34 @@
+[On_Timings]
+Relay_1   :1,60,220
+Relay_2   :4,65
+Relay_3   :8,70
+Relay_4   :15,75
+Relay_5   :12,80
+Relay_6   :19,85
+Relay_7   :19,90
+Relay_8   :23,95
+Relay_9   :21,100
+Relay_10  :27,105
+Relay_11  :30,110
+Relay_12  :40,115
+Relay_13  :36,120
+Relay_14  :49,125
+Relay_15  :43,130
+Relay_16  :50,135
+[Off_Timings]
+Relay_1   :5,140,225
+Relay_2   :9,145
+Relay_3   :13,150
+Relay_4   :17,155
+Relay_5   :17,160
+Relay_6   :25,165
+Relay_7   :25,170
+Relay_8   :27,175
+Relay_9   :27,180
+Relay_10  :33,185
+Relay_11  :33,190
+Relay_12  :44,195
+Relay_13  :44,200
+Relay_14  :55,205
+Relay_15  :55,210
+Relay_16  :55,215

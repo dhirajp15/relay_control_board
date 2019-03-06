@@ -1,10 +1,10 @@
 # relay_control_board
 
-##The project houses python script to control relay timings according to the song
+## The project houses python script to control relay timings according to the song
 
 ---
 
-###This is using rasberry pi zero
+### This is using rasberry pi zero
 
 ---
 Pi is used for toggling the states of relays an playing music

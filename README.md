@@ -1,6 +1,6 @@
 # relay_control_board
 
-## The project houses python script to control relay timings according to the song
+## The project houses python script to toggle relay switches based on the timing file.The timings are entered according to the music played in the background.
 
 ---
 <br/>
